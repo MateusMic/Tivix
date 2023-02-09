@@ -1,0 +1,43 @@
+TC1
+Step 1.		Load http://qalab.pl.tivixlabs.com/
+Step 2.		Select Poland from country list
+Step 3.		Select Cracow from City list
+Step 4.		Select Pick-up date - 11.02.2023
+Step 5.		Select Drop-off date - 12.02.2023
+Step 6. 	Press Search button
+Step 7.		Check cars list are available
+
+
+TC2
+Step 1.		Load http://qalab.pl.tivixlabs.com/
+Step 2.		Select France from country list
+Step 3.		Select Paris from City list
+Step 4.		Select Pick-up date - 11.02.2023
+Step 5.		Select Drop-off date - 22.02.2023
+Step 6. 	Press Search button
+Step 7.		Check cars list are available
+
+
+TC3
+Step 1.		Load http://qalab.pl.tivixlabs.com/
+Step 2.		Select Germany from country list
+Step 3.		Select Berlin from City list
+Step 4.		Set model to Skoda Octavia
+Step 5.		Select Pick-up date - 11.12.2023
+Step 6.		Select Drop-off date - 22.12.2023
+Step 7. 	Press Search button
+Step 8.		Check cars list are available
+
+
+
+Problem 1:
+After requested specific model on the result list still are available different cars
+
+Problem 2:
+After requesting long period of borrowing car site crash
+
+Problem 3:
+Typo in word Germainly
+
+Problem 4:
+City from another country available after selecting specific country
